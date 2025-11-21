@@ -24,3 +24,4 @@ Notes and usage details for java-rag.
 - fix a small wording issue
 - add a note about the defaults
 - link the usage section
+- clarify the setup steps
