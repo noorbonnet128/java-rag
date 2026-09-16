@@ -68,3 +68,4 @@ Notes and usage details for java-rag.
 - link the usage section
 - clarify the setup steps
 - add a note about the defaults
+- clarify the setup steps
